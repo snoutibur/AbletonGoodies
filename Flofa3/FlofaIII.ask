@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Ableton MajorVersion="5" MinorVersion="12.0_12049" SchemaChangeCount="3" Creator="snoutibur" Revision="3">
+  <Theme>
+    <ControlForeground Value="#FFFFFF"/>
+    <TextDisabled Value="#B3B3B3"/>
+    <ControlDisabled Value="#35393d"/>
+    <MeterBackground Value="#1c1c1c"/>
+    <SurfaceHighlight Value="#242424ff"/>
+    <SurfaceArea Value="#1a1a1aff"/>
+    <Desktop Value="#252526"/>
+    <ViewCheckControlEnabledOn Value="#ffffff"/>
+
+		<ScrollbarInnerHandle Value="#859cc9" />
+		<ScrollbarInnerTrack Value="#00000000" />
+    <ScrollbarOuterHandle Value="#ffffff"/>
+    <ScrollbarOuterTrack Value="#a0a0a0ff"/>
+    <ScrollbarLCDHandle Value="#a0a0a0ff"/>
+    <ScrollbarLCDTrack Value="#a0a0a0ff"/>
+    <ScrollbarInnerHandleHover Value="#acbad3" />
+		<ScrollbarInnerTrackHover Value="#221746" />
+		<ScrollbarMixerShowOnScrollHandleHover Value="#0000007f" />
+    <ScrollBarAlpha Value="255" />
+		<ScrollBarOnHoverAlpha Value="255" />
+		<ScrollBarBackgroundAlpha Value="255" />
+		<ScrollbarLCDHandleHover Value="#acbad3" />
+		<ScrollbarLCDTrackHover Value="#4a4796" />
+    
+    <DetailViewBackground Value="#32333D"/>
+    <PreferencesTab Value="#363636ff"/>
+    <SelectionFrame Value="#d2d2d2ff"/>
+    <SelectionBackgroundContrast Value="#7fa4b0"/>
+    <ControlBackground Value="#3B3B3B"/>
+    <ControlFillHandle Value="#51618A"/>
+    <ChosenDefault Value="#53397D"/>
+    <ChosenRecord Value="#EF3330"/>
+    <ChosenPreListen Value="#3e3496ff"/>
+    <ImplicitArm Value="#ff000064"/>
+    <RangeDefault Value="#6984ffff"/>
+    <RangeDisabled Value="#828282ff"/>
+    <RangeDisabledOff Value="#323232ff"/>
+    <LearnMidi Value="#4034efff"/>
+    <LearnKey Value="#1565c0ff"/>
+    <LearnMacro Value="#00ff81ff"/>
+    <RangeEditField Value="#000000ff"/>
+    <RangeEditField2 Value="#8b4b47ff"/>
+    <BipolReset Value="#6dd7ffff"/>
+    <ChosenAlternative Value="#2557BA"/>
+    <ChosenAlert Value="#ff6446ff"/>
+    <ChosenPlay Value="#00ff81ff"/>
+    <Clip1 Value="#b71c1cff"/>
+    <Clip2 Value="#e65100ff"/>
+    <Clip3 Value="#f9a825ff"/>
+    <Clip4 Value="#388e3cff"/>
+    <Clip5 Value="#01579bff"/>
+    <Clip6 Value="#81d24cff"/>
+    <Clip7 Value="#6baaceff"/>
+    <Clip8 Value="#4881aaff"/>
+    <Clip9 Value="#954eb2ff"/>
+    <Clip10 Value="#ff5f80ff"/>
+    <Clip11 Value="#0058dcff"/>
+    <Clip12 Value="#1b5e20ff"/>
+    <Clip13 Value="#d100e0ff"/>
+    <Clip14 Value="#c629ffff"/>
+    <Clip15 Value="#e7e6e6ff"/>
+    <Clip16 Value="#a0a0a0ff"/>
+    <ClipText Value="#000000ff"/>
+    <ClipBorder Value="#757575ff"/>
+    <SelectionBackground Value="#1C0D21"/>
+    <StandbySelectionBackground Value="#342945"/>
+    <SelectionForeground Value="#FFFFFF"/>
+    <StandbySelectionForeground Value="#9E9AC7"/>
+    <SurfaceBackground Value="#252526"/>
+
+    <AutomationColor Value="#f7ffffff"/>
+    <AutomationGrid Value="#000000ff"/>
+    <LoopColor Value="#a0a0a0ff"/>
+    <OffGridLoopColor Value="#b4b4b464"/>
+    <ArrangementRulerMarkings Value="#ffffffff"/>
+    <DetailViewRulerMarkings Value="#808080ff"/>
+    
+    <ShadowDark Value="#000000a5"/>
+    <ShadowLight Value="#555555a0"/>
+    <DisplayBackground Value="#282828ff"/>
+    <AbletonColor Value="#00ff00ff"/>
+    <WaveformColor Value="#000000"/>
+    <VelocityColor Value="#352c80ff"/>
+    <Alert Value="#ef5350ff"/>
+    <ControlOnForeground Value="#FFFFFF"/>
+    <ControlOffForeground Value="#D4DDFF"/>
+    <ControlOnDisabledForeground Value="#A1A1A1"/>
+    <ControlOffDisabledForeground Value="#9699B5"/>
+    <ControlOnAlternativeForeground Value="#ABABAB"/>
+    <ControlTextBack Value="#2B2B2B"/>
+    <ControlContrastFrame Value="#1a1a1aff"/>
+    <ControlSelectionFrame Value="#1e1e1eff"/>
+    <ControlContrastTransport Value="#42414f"/>
+    <Progress Value="#688230ff"/>
+    <ProgressText Value="#646464ff"/>
+    <TransportProgress Value="#33af1f"/>
+    <ClipSlotButton Value="#0D0D14"/>
+
+    <BrowserBar Value="#1a1a1aff"/>
+    <BrowserBarOverlayHintTextColor Value="#ffffffff"/>
+    <BrowserDisabledItem Value="#FF000491"/>
+    <BrowserSampleWaveform Value="#ffffffff"/>
+		<BrowserTagBackground Value="#2E2E2E" />
+    
+    <AutomationDisabled Value="#a0a0a0ff"/>
+    <AutomationMouseOver Value="#5dbbd8ff"/>
+    <MidiNoteMaxVelocity Value="#ff584cff"/>
+    <RetroDisplayBackground Value="#000000ff"/>
+    <RetroDisplayBackgroundLine Value="#464646ff"/>
+    <RetroDisplayForeground Value="#DDD1FF"/>
+    <RetroDisplayForeground2 Value="#5040E3ED"/>
+    <RetroDisplayForegroundDisabled Value="#CCCCCC"/>
+    <RetroDisplayGreen Value="#6dff59ff"/>
+    <RetroDisplayRed Value="#4155bdff"/>
+    <RetroDisplayHandle1 Value="#d1ccffff"/>
+    <RetroDisplayHandle2 Value="#eda59fff"/>
+
+		<ScaleAwareness Value="#AA23FC" />
+    <RetroDisplayScaleText Value="#00b7ffff"/>
+    
+    <ThresholdLineColor Value="#3a2ac7ff"/>
+    <GainReductionLineColor Value="#ff0000ff"/>
+    <InputCurveColor Value="#ffffff1e"/>
+    <InputCurveOutlineColor Value="#00000000"/>
+    <OutputCurveColor Value="#d6dde41e"/>
+    <OutputCurveOutlineColor Value="#edf0f4ff"/>
+    <SpectrumDefaultColor Value="#596270"/>
+    <SpectrumAlternativeColor Value="#2b64bfff"/>
+    <SpectrumGridLines Value="#352c80ff"/>
+    <Operator1 Value="#3e3496ff"/>
+    <Operator2 Value="#1976d2ff"/>
+    <Operator3 Value="#7b1fa2ff"/>
+    <Operator4 Value="#388e3cff"/>
+    <DrumRackScroller1 Value="#525252"/>
+    <DrumRackScroller2 Value="#858585"/>
+    <FilledDrumRackPad Value="#828282ff"/>
+    <SurfaceAreaFocus Value="#080808ff"/>
+    <FreezeColor Value="#5C6BF7B7"/>
+
+    <GridLabel Value="#D7C9FF59"/>
+    <GridLineBase Value="#000000ff"/>
+    <ArrangerGridTiles Value="#9999990c"/>
+    <DetailGridTiles Value="#00000023"/>
+    <GridGuideline Value="#c3c3c3ff"/>
+    <OffGridGuideline Value="#7d7d7d78"/>
+
+    <TreeColumnHeadBackground Value="#0d0d0dff"/>
+    <TreeColumnHeadForeground Value="#ffffffff"/>
+    <TreeColumnHeadSelected Value="#505050ff"/>
+    <TreeColumnHeadFocus Value="#262626ff"/>
+    <TreeColumnHeadControl Value="#5c5c5cff"/>
+    <TreeRowCategoryForeground Value="#ffffffff"/>
+    <TreeRowCategoryBackground Value="#00000000"/>
+    <SearchIndication Value="#363636ff"/>
+    <SearchIndicationStandby Value="#2c192e"/>
+    <KeyZoneBackground Value="#2020d8ff"/>
+    <KeyZoneCrossfadeRamp Value="#0363a8ff"/>
+    <VelocityZoneBackground Value="#dab4b4ff"/>
+    <VelocityZoneCrossfadeRamp Value="#da4e4eff"/>
+    <SelectorZoneBackground Value="#b4ccdaff"/>
+    <SelectorZoneCrossfadeRamp Value="#5577c6ff"/>
+    <ViewCheckControlEnabledOff Value="#7A7A7A"/>
+    <ViewCheckControlDisabledOn Value="#7A7A7A"/>
+    <ViewCheckControlDisabledOff Value="#D2D2D2"/>
+    <DefaultBlendFactor Value="0.8000000119"/>
+    <IconBlendFactor Value="0.6499999762"/>
+    <ClipBlendFactor Value="0.75"/>
+    <NoteBorderStandbyBlendFactor Value="0.5"/>
+    <RetroDisplayBlendFactor Value="0.8999999762"/>
+    <CheckControlNotCheckedBlendFactor Value="0.5"/>
+    <MixSurfaceAreaBlendFactor Value="0.349999994"/>
+    <TextFrameSegmentBlendFactor Value="0.6000000238"/>
+    <VelocityEditorForegroundSelectedBlendFactor Value="0.6000000238"/>
+    <NoteDisabledSelectedBlendFactor Value="0.5"/>
+    <BackgroundClip Value="#6c6c6cff"/>
+    <BackgroundClipFrame Value="#252525ff"/>
+    <WarperTimeBarRulerBackground Value="#252526ff"/>
+    <WarperTimeBarMarkerBackground Value="#373737ff"/>
+    <MinVelocityNoteBlendFactor Value="0.200000003"/>
+    <StripedBackgroundShadeFactor Value="0.8999999762"/>
+    <AutomationLaneHeaderAlpha Value="60"/>
+    <AutomationLaneClipBodyAlpha Value="60"/>
+    <NonEditableAutomationAlpha Value="127"/>
+    <DisabledContextMenuIconAlpha Value="85"/>
+    <BipolarPotiTriangle Value="#7700BF"/>
+    <Poti Value="#6e6e6eff"/>
+    <DeactivatedPoti Value="#8f8f8fff"/>
+    <PotiNeedle Value="#ffffffff"/>
+
+    <DeactivatedPotiNeedle Value="#878787ff"/>
+    <TransportOffBackground Value="#363636"/>
+    <TransportOffDisabledForeground Value="#737373"/>
+		<TransportOffForeground Value="#BEBDFF"/>
+    <TransportSelectionBackground Value="#3e59ab"/>
+
+    <Modulation Value="#6dd7ffff"/>
+    <ModulationDisabled Value="#c8c8c8ff"/>
+    <ModulationMouseOver Value="#4aa1ffff"/>
+    <AutomationTransformToolFrame Value="#0000003f"/>
+    <AutomationTransformToolFrameActive Value="#000000ff"/>
+    <AutomationTransformToolHandle Value="#0000003f"/>
+    <AutomationTransformToolHandleActive Value="#000000ff"/>
+    <SurfaceAreaForeground Value="#CFCFCF"/>
+    <SceneContrast Value="#3D3D3D"/>
+    <TakeLaneTrackHighlighted Value="#424242"/>
+    <TakeLaneTrackNotHighlighted Value="#2d2d2d"/>
+    <DimmedWaveformColor Value="#141414"/>
+    <VelocitySelectedOrHovered Value="#5b8cff"/>
+    <NoteProbability Value="#000000"/>
+    <RetroDisplayTitle Value="#afafaf"/>
+    <ClipBorderAlpha Value="64"/>
+    <InaudibleTakeLightness Value="0.369999999999999996"/>
+    <InaudibleTakeSaturation Value="0.479999999999999982"/>
+    <InaudibleTakeNameLightness Value="0.760000000000000009"/>
+    <InaudibleTakeNameSaturation Value="0.800000000000000044"/>
+    <AutomationLaneClipBodyLightness Value="0.349999999999999978"/>
+    <AutomationLaneClipBodySaturation Value="0.599999999999999978"/>
+    <AutomationLaneHeaderLightness Value="0.46000000000000002"/>
+    <AutomationLaneHeaderSaturation Value="0.900000000000000022"/>
+    <TakeLaneHeaderLightness Value="0.440000000000000002"/>
+    <TakeLaneHeaderSaturation Value="0.900000000000000022"/>
+    <TakeLaneHeaderNameLightness Value="0.82999999999999996"/>
+    <TakeLaneHeaderNameSaturation Value="0.849999999999999978"/>
+    <AutomationLaneHeaderNameLightness Value="0.0500000000000000028"/>
+    <AutomationLaneHeaderNameSaturation Value="0.900000000000000022"/>
+    <ClipContrastColorAdjustment Value="20"/>
+    <MutedAuditionClip Value="#606060"/>
+    <LinkedTrackHover Value="#b3d4e5"/>
+    <ExpressionLaneHeaderHighlight Value="#404040"/>
+    <ZoomPanHandle Value="#7f7f7f"/>
+
+    <StandardVuMeter>
+      <OnlyMinimumToMaximum Value="false"/>
+      <Maximum Value="#ff0a0a"/>
+      <AboveZeroDecibel Value="#ffd00a"/>
+      <ZeroDecibel Value="#c6f864"/>
+      <Minimum Value="#c420fa"/>
+    </StandardVuMeter>
+    <OverloadVuMeter>
+      <OnlyMinimumToMaximum Value="true"/>
+      <Maximum Value="#ff0a0a"/>
+      <AboveZeroDecibel Value="#ffffff"/>
+      <ZeroDecibel Value="#ffffff"/>
+      <Minimum Value="#af0a0a"/>
+    </OverloadVuMeter>
+    <DisabledVuMeter>
+      <OnlyMinimumToMaximum Value="false"/>
+      <Maximum Value="#ff0a0a"/>
+      <AboveZeroDecibel Value="#ffd00a"/>
+      <ZeroDecibel Value="#828282"/>
+      <Minimum Value="#6e6e6e"/>
+    </DisabledVuMeter>
+    <HeadphonesVuMeter>
+      <OnlyMinimumToMaximum Value="false"/>
+      <Maximum Value="#a5a5f1"/>
+      <AboveZeroDecibel Value="#90aaec"/>
+      <ZeroDecibel Value="#90aaec"/>
+      <Minimum Value="#0affff"/>
+    </HeadphonesVuMeter>
+    <SendsOnlyVuMeter>
+      <OnlyMinimumToMaximum Value="false"/>
+      <Maximum Value="#c8c800"/>
+      <AboveZeroDecibel Value="#c8c800"/>
+      <ZeroDecibel Value="#6464ff"/>
+      <Minimum Value="#6464ff"/>
+    </SendsOnlyVuMeter>
+    <BipolarGainReductionVuMeter>
+      <OnlyMinimumToMaximum Value="false"/>
+      <Maximum Value="#5577c6"/>
+      <AboveZeroDecibel Value="#5577c6"/>
+      <ZeroDecibel Value="#ffa519"/>
+      <Minimum Value="#ffa519"/>
+    </BipolarGainReductionVuMeter>
+    <OrangeVuMeter>
+      <OnlyMinimumToMaximum Value="true"/>
+      <Maximum Value="#ffa519"/>
+      <AboveZeroDecibel Value="#ffa519"/>
+      <ZeroDecibel Value="#ffa519"/>
+      <Minimum Value="#ffa519"/>
+    </OrangeVuMeter>
+  </Theme>
+</Ableton>
