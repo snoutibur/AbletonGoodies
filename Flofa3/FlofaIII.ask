@@ -10,21 +10,21 @@
     <Desktop Value="#252526"/>
     <ViewCheckControlEnabledOn Value="#ffffff"/>
 
-		<ScrollbarInnerHandle Value="#859cc9" />
-		<ScrollbarInnerTrack Value="#00000000" />
+	<ScrollbarInnerHandle Value="#859cc9" />
+	<ScrollbarInnerTrack Value="#00000000" />
     <ScrollbarOuterHandle Value="#ffffff"/>
     <ScrollbarOuterTrack Value="#a0a0a0ff"/>
     <ScrollbarLCDHandle Value="#a0a0a0ff"/>
     <ScrollbarLCDTrack Value="#a0a0a0ff"/>
     <ScrollbarInnerHandleHover Value="#acbad3" />
-		<ScrollbarInnerTrackHover Value="#221746" />
-		<ScrollbarMixerShowOnScrollHandleHover Value="#0000007f" />
+	<ScrollbarInnerTrackHover Value="#221746" />
+	<ScrollbarMixerShowOnScrollHandleHover Value="#0000007f" />
     <ScrollBarAlpha Value="255" />
-		<ScrollBarOnHoverAlpha Value="255" />
-		<ScrollBarBackgroundAlpha Value="255" />
-		<ScrollbarLCDHandleHover Value="#acbad3" />
-		<ScrollbarLCDTrackHover Value="#4a4796" />
-    
+	<ScrollBarOnHoverAlpha Value="255" />
+	<ScrollBarBackgroundAlpha Value="255" />
+	<ScrollbarLCDHandleHover Value="#acbad3" />
+	<ScrollbarLCDTrackHover Value="#4a4796" />
+
     <DetailViewBackground Value="#32333D"/>
     <PreferencesTab Value="#363636ff"/>
     <SelectionFrame Value="#d2d2d2ff"/>
@@ -77,7 +77,7 @@
     <OffGridLoopColor Value="#b4b4b464"/>
     <ArrangementRulerMarkings Value="#ffffffff"/>
     <DetailViewRulerMarkings Value="#808080ff"/>
-    
+
     <ShadowDark Value="#000000a5"/>
     <ShadowLight Value="#555555a0"/>
     <DisplayBackground Value="#282828ff"/>
@@ -103,24 +103,24 @@
     <BrowserBarOverlayHintTextColor Value="#ffffffff"/>
     <BrowserDisabledItem Value="#FF000491"/>
     <BrowserSampleWaveform Value="#ffffffff"/>
-		<BrowserTagBackground Value="#2E2E2E" />
-    
+	<BrowserTagBackground Value="#2E2E2E" />
+
     <AutomationDisabled Value="#a0a0a0ff"/>
     <AutomationMouseOver Value="#5dbbd8ff"/>
     <MidiNoteMaxVelocity Value="#ff584cff"/>
     <RetroDisplayBackground Value="#000000ff"/>
     <RetroDisplayBackgroundLine Value="#464646ff"/>
-    <RetroDisplayForeground Value="#DDD1FF"/>
+    <RetroDisplayForeground Value="#9476E8"/>
     <RetroDisplayForeground2 Value="#5040E3ED"/>
-    <RetroDisplayForegroundDisabled Value="#CCCCCC"/>
-    <RetroDisplayGreen Value="#6dff59ff"/>
+    <RetroDisplayForegroundDisabled Value="#616161"/>
+    <RetroDisplayGreen Value="#3EB35F"/>
     <RetroDisplayRed Value="#4155bdff"/>
-    <RetroDisplayHandle1 Value="#d1ccffff"/>
-    <RetroDisplayHandle2 Value="#eda59fff"/>
+    <RetroDisplayHandle1 Value="#B2ADD9"/>
+    <RetroDisplayHandle2 Value="#76BBED"/>
 
-		<ScaleAwareness Value="#AA23FC" />
+	<ScaleAwareness Value="#AA23FC" />
     <RetroDisplayScaleText Value="#00b7ffff"/>
-    
+
     <ThresholdLineColor Value="#3a2ac7ff"/>
     <GainReductionLineColor Value="#ff0000ff"/>
     <InputCurveColor Value="#ffffff1e"/>
@@ -193,7 +193,7 @@
     <DeactivatedPotiNeedle Value="#878787ff"/>
     <TransportOffBackground Value="#363636"/>
     <TransportOffDisabledForeground Value="#737373"/>
-		<TransportOffForeground Value="#BEBDFF"/>
+	<TransportOffForeground Value="#BEBDFF"/>
     <TransportSelectionBackground Value="#3e59ab"/>
 
     <Modulation Value="#6dd7ffff"/>
@@ -231,6 +231,10 @@
     <LinkedTrackHover Value="#b3d4e5"/>
     <ExpressionLaneHeaderHighlight Value="#404040"/>
     <ZoomPanHandle Value="#7f7f7f"/>
+
+    <PianoBlackKey Value="#07000D" />
+	<PianoWhiteKey Value="#D6D5E3" />
+	<PianoKeySeparator Value="#1C1D21" />
 
     <StandardVuMeter>
       <OnlyMinimumToMaximum Value="false"/>
